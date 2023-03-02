@@ -8,5 +8,7 @@ class po1
         p=p1;
         System.out.println("1 :"+p);
         System.out.println("1 :"+p1);
+
+        hooo;
     }
 }
